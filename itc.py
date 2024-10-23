@@ -15,3 +15,6 @@ if temp >= varHot:
     print("Iced Tea")
 elif temp <= varCold:
     print("Coffee")
+
+#Verify output.
+verify = input("Was this satisfactory?")
