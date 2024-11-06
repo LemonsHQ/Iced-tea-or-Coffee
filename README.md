@@ -1,1 +1,1 @@
-## This is a file made for class or whatever.
+## This is a file made for class.
